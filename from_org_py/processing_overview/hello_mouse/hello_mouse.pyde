@@ -4,7 +4,7 @@
 def setup():
     size(400, 400)
     stroke(255)
-    # background(192, 64, 0) ver1=> multi lines area drawn
+    # background(192, 64, 0) # ver1=> multi lines area drawn
 
 def draw():
     # background(192, 64, 0) # ver2 clear display for each draw => single line is drawn
