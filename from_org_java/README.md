@@ -1,4 +1,4 @@
-# Processing Tutorail in Java
+# Processing Tutorial in Java
 [Processing.org/Tutorial](https://processing.org/tutorials)のtext tutorialをまとめたもの．
 
 ## Getting Started
