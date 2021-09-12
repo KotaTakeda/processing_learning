@@ -13,6 +13,7 @@ void draw() {
   background(255);
   move();
   display();
+  saveFrame("output.gif");
 }
 
 void move() {
