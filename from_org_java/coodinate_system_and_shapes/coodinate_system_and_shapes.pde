@@ -38,3 +38,5 @@ ellipse(119,70,16,32);
 // feet
 line(90,150,80,160);
 line(110,150,120,160);
+
+saveFrame("output.png");

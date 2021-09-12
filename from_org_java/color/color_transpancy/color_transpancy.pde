@@ -21,3 +21,5 @@ rect(0,100,200,40);
 // 25% opacity.
 fill(255,0,0,63);
 rect(0,150,200,40);
+
+saveFrame("output.png");

@@ -11,3 +11,6 @@ line(150, 25, 270, 350);
 // stroke(255, 128, 0);        // bright orange (red 255,green 128, blue 0)
 // stroke(#FF8000);            // bright orange as a web color
 // stroke(255, 128, 0, 128);   // bright orange with 50% transparency
+
+// save as png
+saveFrame("output.png");

@@ -13,3 +13,5 @@ ellipse(40,20,16,16);
 // Pink (pale red)
 fill(255,200,200);
 ellipse(60,20,16,16);
+
+saveFrame("output.png");
